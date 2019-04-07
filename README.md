@@ -1,0 +1,1 @@
+Aplikacja YADA - Yet Another Drawing App - jest aplikacją, będącą swego rodzaju mobilnym Paintem na urządzenia mobilne z systemem Android. Pozwala na rysowanie różnych kresek, kształtów, zmiany kolorów, gradientów itp. Projekt został napisany w języku Java w środosku Android Studio
